@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeevith
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Project Managemnt, Data Analytics, Gaming & Mentoring
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me on Linkedin - https://www.linkedin.com/in/jeevithram-mamidala-54a9a0173/
